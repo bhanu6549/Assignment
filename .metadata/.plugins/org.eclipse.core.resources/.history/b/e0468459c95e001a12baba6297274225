@@ -1,0 +1,11 @@
+package com.mindtree.service;
+
+public class ServiceImp implements Service {
+
+	@Override
+	public void insert(int portalId, String portalName) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
