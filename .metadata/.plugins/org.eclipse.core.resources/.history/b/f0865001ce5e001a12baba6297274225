@@ -1,0 +1,11 @@
+package com.mindtree.dao;
+
+public interface ServiceDao {
+
+	void insertDb(int portalId, String portalName);
+
+	void sortDb();
+
+	void bookTicket(String portalName);
+
+}

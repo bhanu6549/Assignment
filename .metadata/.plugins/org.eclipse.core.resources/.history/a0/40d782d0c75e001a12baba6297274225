@@ -1,0 +1,5 @@
+package com.mindtree.service;
+
+public class ServiceImp implements Service {
+
+}
