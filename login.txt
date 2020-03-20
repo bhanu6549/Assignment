@@ -1,0 +1,7 @@
+azxzcxvbvwedfgqawdrgaszxv
+hello
+<<<<<<< HEAD
+adding features
+=======
+nmzbXnbdgsehg
+>>>>>>> 6a2880da00520879c070ed51c66671a2d5645e7b
