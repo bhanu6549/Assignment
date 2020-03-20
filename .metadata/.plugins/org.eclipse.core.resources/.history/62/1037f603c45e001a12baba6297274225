@@ -1,0 +1,6 @@
+package com.mindtree.exception;
+
+public class DaoException extends ApplicationException {
+	
+
+}
