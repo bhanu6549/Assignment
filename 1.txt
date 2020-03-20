@@ -1,1 +1,7 @@
-xcvb
+junit and mockito
+junit checks what code u have written is r8 or wrong it is a jar.
+methods -assert methods
+assert equals assert notequals
+assert true
+assert false
+
