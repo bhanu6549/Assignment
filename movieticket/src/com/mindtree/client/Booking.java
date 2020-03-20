@@ -24,6 +24,14 @@ public class Booking {
 				String portalName = sc.nextLine();
 				serv.insert(portalId, portalName);
 				break;
+			case 1:
+				System.out.println("enter booking id");
+				int portalId = sc.nextInt();
+				sc.nextLine();
+				System.out.println("enter the booking portal name");
+				String portalName = sc.nextLine();
+				serv.insert(portalId, portalName);
+				break;
 			case 2:
 				System.out.println("enter movie Id");
 				int movieId = sc.nextInt();
