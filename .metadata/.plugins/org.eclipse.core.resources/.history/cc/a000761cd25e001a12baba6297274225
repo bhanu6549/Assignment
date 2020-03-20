@@ -1,0 +1,13 @@
+package com.mindtree.service;
+
+public interface Service {
+
+	void insert(int portalId, String portalName);
+
+	void bookTicket(int portalId);
+
+	void delete(int portalId);
+
+	void sort();
+
+}
