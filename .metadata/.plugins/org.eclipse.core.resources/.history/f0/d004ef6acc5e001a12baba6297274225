@@ -1,7 +1,0 @@
-package com.mindtree.dao;
-
-public interface ServiceDao {
-
-	void insertDb(int portalId, String portalName);
-
-}

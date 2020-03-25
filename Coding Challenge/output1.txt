@@ -1,2 +1,0 @@
-Laptop [serialNo=1, price=456.0, model=gfh, brand=sf]
-Laptop [serialNo=2, price=567.0, model=try, brand=sf]

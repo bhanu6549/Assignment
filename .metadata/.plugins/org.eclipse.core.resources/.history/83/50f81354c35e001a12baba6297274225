@@ -1,5 +1,0 @@
-package com.mindtree.utility;
-
-public class JdbcConnection {
-
-}
